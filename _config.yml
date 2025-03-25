@@ -1,69 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MAC-VO: Metric-Aware Covariance for Learning-based Stereo Visual Odometry</title>
-    <link rel="stylesheet" href="style.css">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        header {
-            background-color: #004080;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        section {
-            max-width: 800px;
-            margin: 20px auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #004080;
-        }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background: #004080;
-            color: white;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>MAC-VO</h1>
-        <p>Metric-Aware Covariance for Learning-based Stereo Visual Odometry</p>
-    </header>
-    <section id="abstract">
-        <h2>Abstract</h2>
-        <p>Provide a brief summary of the project here...</p>
-    </section>
-    <section id="methodology">
-        <h2>Methodology</h2>
-        <p>Explain the methods used in the project...</p>
-    </section>
-    <section id="results">
-        <h2>Results</h2>
-        <p>Showcase the findings with examples...</p>
-    </section>
-    <section id="demo">
-        <h2>Demo</h2>
-        <p>Embed a video or provide a link to the demo...</p>
-    </section>
-    <footer>
-        <p>© 2025 Your Name. All Rights Reserved.</p>
-    </footer>
-</body>
-</html>
+#remote_theme: pages-themes/slate@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+#
+#title: Segment Any Gaussian Splatting SLAM
+#description: Segment Any Gaussian Splatting SLAM
+#
+## Links
+#- [Paper](https://github.com/narayanlongani/test.github.io)
+#- [GitHub Code](https://github.com/narayanlongani/test.github.io)
