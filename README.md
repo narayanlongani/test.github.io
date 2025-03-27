@@ -7,7 +7,7 @@
   </p>
   
 [![arXiv](https://img.shields.io/badge/arXiv-2503.17491-b31b1b.svg)](https://arxiv.org/abs/2503.17491)
-
+<p align="left">
 ## :gear: How to build & run
 
 ### ROS1
