@@ -7,12 +7,12 @@
   </p>
 
 
-  <p align="center"><img src=pictures/GenZ-ICP.gif alt="animated" width="500" /></p>
-
-  [GenZ-ICP][arXivlink] is a **Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**
-</div>
-
-[arXivlink]: https://arxiv.org/abs/2411.06766
+  <h3 align="center">
+  
+[![arXiv](https://img.shields.io/badge/arXiv-2503.17491-b31b1b.svg)](https://arxiv.org/abs/2503.17491)
+<p align="center">
+  <h3 align="center">Code will be released soon 👷‍♂️</h3>
+</p>
 
 ## :gear: How to build & run
 
