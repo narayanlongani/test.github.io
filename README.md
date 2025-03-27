@@ -1,8 +1,12 @@
 <div align="center">
     <h1>An Object-Level SLAM System Using Gaussian Grouping and Splatting</h1>
-<!--     <a href="https://github.com/cocel-postech/genz-icp/tree/master/cpp/genz_icp"><img src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" /></a> -->
-<!--     <a href="https://github.com/cocel-postech/genz-icp/tree/master/ros"><img src="https://img.shields.io/badge/ROS1-Noetic-blue" /></a> -->
-<!--     <a href="https://github.com/cocel-postech/genz-icp/tree/master/ros"><img src="https://img.shields.io/badge/ROS2-Humble-blue" /></a> -->
+  <p align="center">
+    <strong>Jung Hyundo</strong>
+    ·
+    <strong>Gon-Woo Kim</strong>
+  </p>
+
+
   <p align="center"><img src=pictures/GenZ-ICP.gif alt="animated" width="500" /></p>
 
   [GenZ-ICP][arXivlink] is a **Generalizable and Degeneracy-Robust LiDAR Odometry Using an Adaptive Weighting**
